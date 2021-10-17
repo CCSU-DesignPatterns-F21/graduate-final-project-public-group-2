@@ -1,0 +1,19 @@
+{
+  "name": "AbstractGui",
+  "version": "1.0.0",
+  "description": "Generic Gui instance",
+  "main": "main.js",
+  "author": "Azeajr",
+  "scripts": {
+    "start": "electron .",
+    "watch": "nodemon --exec electron .",
+    "reset": "git reset --hard"
+  },
+  "devDependencies": {
+    "electron": "^15.2.0",
+    "nodemon": "^2.0.0"
+  },
+  "dependencies": {
+    "phaser": "^3.55.2"
+  }
+}
