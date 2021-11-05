@@ -21,6 +21,7 @@ function createWindow() {
 
   // Load index.html into the new BrowserWindow
   mainWindow.loadFile("phaser3-tutorial-src/part1.html");
+  //mainWindow.loadFile("index.html");
 
   // Open DevTools - Remove for PRODUCTION!
   //mainWindow.webContents.openDevTools();
