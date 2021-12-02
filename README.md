@@ -7,7 +7,7 @@ This part of the project is meant to act as a generic frontend for a game board 
 
 ## Description
 
-Our project has various functionalities out of which there is a grid generation thayt can be re used for other team projects as required.
+Our project has various functionalities out of which there is a grid generation that can be re-used for other team projects as required.
 
 App.java is a API class that exposes launchGrid method which is used to launch a grid based on the number of rows and columns.
 
@@ -24,11 +24,13 @@ Import the App.java from com.frontend
 
 Call App.launchGrid function
 
-Here is the sample demo code
+Here is the code
+------------------------------------------
 
 import com.frontend;
 
 App.launchGrid(8,8);
+------------------------------------------
     
 
 ## Authors
