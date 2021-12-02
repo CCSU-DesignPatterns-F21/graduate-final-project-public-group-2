@@ -1,4 +1,4 @@
-package com.javaApp;
+package javaApp;
 
 public class DemoApp {
 
